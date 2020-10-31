@@ -1,13 +1,22 @@
 {
 	"folders": [
 		{
-			"path": "../exp-ng-app-shell",
-			"name": "app-shell"
-		},
-		{
 			"path": "./",
 			"name": "root"
+		},
+		{
+			"path": "./exp-ng-pwa-sw",
+			"name": "app-shell"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/exp-ng-pwa-sw*": false
+		}
+	}
 }
