@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../exp-ng-app-shell",
+			"name": "app-shell"
+		},
+		{
+			"path": "./",
+			"name": "root"
+		}
+	],
+	"settings": {}
+}
